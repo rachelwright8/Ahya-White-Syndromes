@@ -1,6 +1,6 @@
 # Ahya-White-Syndromes
 
-###Differential Gene Expression Analysis via DESeq2 (Love MI, Huber W and Anders S 2014)
+###Differential Gene Expression Analysis via DESeq2 (Love, Huber and Anders 2014)
 DESeq2 for gene expression analysis requires counts data file "25july_diseasecounts.tab"
 This file is a table of counts per gene: rows are genes, columns are samples
 Sample name abbreviations are as follows: AL = ahead of the lesion, D = disease, H = healthy

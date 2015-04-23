@@ -1,6 +1,6 @@
 # Ahya-White-Syndromes
 
-DESeq2 for gene expression analysis requires counts data file "25july_diseasecounts.tab"
+##DESeq2## for gene expression analysis requires counts data file "25july_diseasecounts.tab"
 This file is a table of counts per gene: rows are genes, columns are samples
 Sample name abbreviations are as follows: AL = ahead of the lesion, D = disease, H = healthy
 Numbers following sample names are the genotypes of the individuals: Genotypes 1-8 were sampled twice (disease and ahead of the lesion tissues were sampled), genotypes 9-16 were sampled once (healthy colonies)

@@ -11,4 +11,4 @@ Rows are genes, values are variance stabilized data. Columns are samples with th
 WGCNA also requires a table of "traits", in our case simply healthy state and individual genotype ID: "diseasetraits_reps.csv"
 Columns are traits, rows are samples. 0 and 1 denote the presence and absence of these "traits", respectively.
 
-PCoA script requires variance stabilized gene expression for all genes. 
+PCoA script requires variance stabilized gene expression for all genes "VSDandPVALS_disease.csv". 
